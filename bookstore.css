@@ -1,0 +1,42 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.main{
+    display:flex;
+    height: 60px;
+    width: 100vw;
+    background-color: chocolate;
+    justify-content: center;
+    align-items: center;
+}
+.logo{
+    color: black;
+    height: 40px;
+    width: 15%;
+    display:flex;
+     justify-content: center;
+    align-items: center;
+
+}
+.name{
+     color: black;
+    height: 40px;
+    width: 85%;
+    display:flex;
+     justify-content: center;
+    align-items: center;
+}
+.info{
+     color: burlywood;
+    height: 40px;
+    width: 100vw;
+    display:flex;
+    justify-content:space-around;
+    align-items: center;
+}
+.content{
+    height: 1200px;
+    width: 100vw;
+    background-color: burlywood;
+}
